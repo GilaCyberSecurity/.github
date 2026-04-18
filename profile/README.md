@@ -93,7 +93,7 @@ Este perfil é nosso espaço de **educação em cibersegurança e LLMs**. Public
 
 | O que entregamos | O que não fazemos |
 |------------------|-------------------|
-| ✅ Pentest manual executado por seniors (OSCP/CEH) | ❌ Scanner automatizado vendido como pentest |
+| ✅ Pentest manual executado por seniors (OSCP, OSEP, OSWE) | ❌ Scanner automatizado vendido como pentest |
 | ✅ Relatório executivo + técnico que o cliente entende | ❌ PDF genérico copiado de template |
 | ✅ Transparência de preço e prazo | ❌ "Orçamento sob consulta" e fila indefinida |
 | ✅ Programa contínuo com monitoramento (Defenzor) | ❌ Entrega pontual e "boa sorte" na remediação |
