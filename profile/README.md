@@ -89,15 +89,16 @@ Este perfil é nosso espaço de **educação em cibersegurança e LLMs**. Public
 
 ---
 
-## 💡 Por que seguir a Gila?
+## 💡 Por que Contratar a Gila?
 
-| O que fazemos | O que não fazemos |
-|---------------|-------------------|
-| ✅ Conteúdo técnico aprofundado | ❌ Posts sobre "5 dicas de segurança" |
-| ✅ Estudos de caso reais | ❌ FUD (fear, uncertainty, doubt) |
-| ✅ Exemplos de código executável | ❌ Teoria sem aplicação |
-| ✅ Transparência sobre limitações | ❌ "Proteção 100% garantida" |
-| ✅ Foco em empresas em crescimento | ❌ Mensagem de enterprise inflada |
+| O que entregamos | O que não fazemos |
+|------------------|-------------------|
+| ✅ Pentest manual executado por seniors (OSCP/CEH) | ❌ Scanner automatizado vendido como pentest |
+| ✅ Relatório executivo + técnico que o cliente entende | ❌ PDF genérico copiado de template |
+| ✅ Transparência de preço e prazo | ❌ "Orçamento sob consulta" e fila indefinida |
+| ✅ Programa contínuo com monitoramento (Defenzor) | ❌ Entrega pontual e "boa sorte" na remediação |
+| ✅ Mentorias e capacitação de equipes | ❌ Dependência eterna do fornecedor |
+| ✅ Foco em continuidade de negócios | ❌ Segurança tratada como checkbox |
 
 ---
 
