@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-gilasecurity.com-1e40af?style=for-the-badge&logo=globe&logoColor=white)](https://www.gilasecurity.com)
 [![Defenzor](https://img.shields.io/badge/Defenzor-SaaS-f97316?style=for-the-badge&logo=shield&logoColor=white)](https://defenzor.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gilasecurity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gila-cybersecurity/)
 
 *Cybersecurity educativa, sem BS. Para empresas em crescimento, desenvolvedores e engenheiros de IA.*
 
@@ -16,12 +16,18 @@
 
 ## 🎯 Sobre a Gila
 
-Somos uma empresa brasileira de **cibersegurança para empresas em crescimento**. Não fazemos FUD (Fear, Uncertainty, Doubt), não vendemos pânico. Fazemos segurança real, com transparência de preço, prazos honestos e foco em programa (não ponto no tempo).
+Nosso posicionamento é **elevar o nível de maturidade de cibersegurança** das empresas — através de **Pentest, Mentorias, Análise de Riscos e Compliance**.
+
+Nossa grande missão: **Cibersegurança é continuidade de negócios.**
+
+Não tratamos segurança como checkbox ou cópia de relatório. Tratamos como programa contínuo, adaptável ao momento da sua empresa, com transparência de preço e prazos honestos.
 
 **Nossos serviços**:
 - 🔒 [Pentest para Fornecedores SaaS](https://www.gilasecurity.com/pt-br/servicos/pentest-para-fornecedores) — Prove segurança pro seu cliente enterprise
 - 📋 [Pentest ISO 27001](https://www.gilasecurity.com/pt-br/servicos/pentest-iso-27001) — Programa completo de conformidade
-- 🔄 [Programa Contínuo de Cybersegurança](https://www.gilasecurity.com/pt-br/servicos/programa-cyberseguranca-continuo) — Pentest + monitoramento contínuo (Defenzor)
+- 🔄 [Programa Contínuo de Cibersegurança](https://www.gilasecurity.com/pt-br/servicos/programa-cyberseguranca-continuo) — Pentest + monitoramento contínuo (Defenzor)
+- 🎓 **Mentorias** — Capacitação de equipes técnicas e liderança
+- 📊 **Análise de Riscos** — Identificação e priorização de riscos de negócio
 
 **Produto SaaS**: [Defenzor](https://defenzor.com.br) — Monitoramento contínuo de superfície de ataque (EASM).
 
@@ -181,7 +187,7 @@ Abrimos issues e PRs nos nossos projetos educacionais. Regras:
   </tr>
   <tr>
     <td>💼 <b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/company/gilasecurity">/company/gilasecurity</a></td>
+    <td><a href="https://www.linkedin.com/company/gila-cybersecurity/">/company/gila-cybersecurity</a></td>
   </tr>
   <tr>
     <td>🌐 <b>Site</b></td>
@@ -195,14 +201,14 @@ Abrimos issues e PRs nos nossos projetos educacionais. Regras:
 
 <div align="center">
 
-### Gila Security — *Cibersegurança honesta para empresas em crescimento*
+### Gila Security — *Cibersegurança é continuidade de negócios*
 
 Feito com 🦎 em Florianópolis, Brasil.
 
 [Website](https://www.gilasecurity.com) ·
 [Defenzor](https://defenzor.com.br) ·
 [Blog](https://www.gilasecurity.com/blog) ·
-[LinkedIn](https://www.linkedin.com/company/gilasecurity) ·
+[LinkedIn](https://www.linkedin.com/company/gila-cybersecurity/) ·
 [Política de Privacidade](https://www.gilasecurity.com/pt-br/politica-de-privacidade)
 
 </div>
